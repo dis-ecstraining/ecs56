@@ -16,7 +16,7 @@
 	https://ap-northeast-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/ecs56-pipeline/view?region=ap-northeast-1
 
   □ AWS ECR プライベートリポジトリ
-	https://ap-northeast-1.console.aws.amazon.com/ecr/repositories/private/058264153553/ecs56-app?region=ap-northeast-1
+	https://ap-northeast-1.console.aws.amazon.com/ecr/repositories/private/227436085244/ecs56-app?region=ap-northeast-1
 
   □ ECS タスク定義 
 	https://ap-northeast-1.console.aws.amazon.com/ecs/v2/task-definitions/ecs56-family?status=ACTIVE&region=ap-northeast-1
